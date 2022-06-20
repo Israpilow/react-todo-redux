@@ -1,3 +1,7 @@
+# Frontend Events
+
+<img src="https://github.com/Israpilow/react-todo-redux/blob/master/src/assets/img/todo.jpg" width="600"/>
+
 A To-Do List - React ToDo + Redux
 
 Stack:
