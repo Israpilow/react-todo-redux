@@ -11,3 +11,13 @@ Stack:
 - Axios (для получения данных от фейкового сервера)
 - json-server (для реализации фейкового сервера)
 - React Router (для маршрутизации)
+
+In the project directory you can run:
+
+## Yarn start
+
+- To run the application, download the repository and install all npm packages in the console with the command: " yarn "
+- After that, start the application with the command: " yarn start "
+- You will also need to start json-server with the command: " yarn json-server "
+
+Open http://localhost:3000 to view it in a browser.
