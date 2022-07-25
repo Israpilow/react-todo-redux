@@ -14,8 +14,6 @@ Stack:
 
 In the project directory you can run:
 
-## Yarn start
-
 - To run the application, download the repository and install all npm packages in the console with the command: " yarn "
 - After that, start the application with the command: " yarn start "
 - You will also need to start json-server with the command: " yarn json-server "
